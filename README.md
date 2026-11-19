@@ -21,7 +21,7 @@ Die Stichprobe wird mit `random_state=42` gezogen und ist reproduzierbar.
 
 | Datei / Ordner | Inhalt |
 |---|---|
-| `analyse.ipynb` | Notebook: Laden, Filtern, Duplikate entfernen, Stichprobe |
+| `01_analyse.ipynb` | Notebook: Laden, Filtern, Duplikate entfernen, Stichprobe |
 | `sample/sample_500.csv` | kleine Beispielstichprobe (500 Texte) |
 | `requirements.txt` | Python-Pakete mit Versionen |
 
